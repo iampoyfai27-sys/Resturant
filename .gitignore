@@ -18,7 +18,10 @@ dist-ssr
 .idea
 .DS_Store
 *.suo
-*.ntvs*
+*.ntvsca*
 *.njsproj
 *.sln
 *.sw?
+
+.env
+.env.production
